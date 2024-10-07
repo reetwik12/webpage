@@ -1,0 +1,30 @@
+baseURL = 'https://reetwikdas.org/'
+languageCode = 'en-us'
+title = "Reetwik Das"
+theme = "m10c"
+paginate = 8
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[params]
+  author = "Reetwik Das"
+  description = "Ph.D. Student @ IIT Madras"
+  menu_item_separator = " | "
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/reetwik12"
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/reetwik12"
