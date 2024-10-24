@@ -13,47 +13,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
       <guid>http://localhost:1313/webpage/contact/</guid>
-      <description>&lt;h2 id=&#34;email&#34;&gt;
-  Email
-  &lt;a href=&#34;#email&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:reetwik12@gmail.com&#34;&gt;reetwik12@gmail.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;linkedinhttpswwwlinkedincominreetwik-das-852316b1&#34;&gt;
-  &lt;a href=&#34;https://www.linkedin.com/in/reetwik-das-852316b1/&#34;&gt;LinkedIn&lt;/a&gt;
-  &lt;a href=&#34;#linkedinhttpswwwlinkedincominreetwik-das-852316b1&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;h3 id=&#34;githubhttpsgithubcomreetwik12&#34;&gt;
-  &lt;a href=&#34;https://github.com/reetwik12&#34;&gt;Github&lt;/a&gt;
-  &lt;a href=&#34;#githubhttpsgithubcomreetwik12&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;h3 id=&#34;twitterhttpstwittercomreetwik12&#34;&gt;
-  &lt;a href=&#34;https://twitter.com/reetwik12&#34;&gt;Twitter&lt;/a&gt;
-  &lt;a href=&#34;#twitterhttpstwittercomreetwik12&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h3&gt;</description>
-      <content>
-&lt;h2 id=&#34;email&#34;&gt;
-  Email
-  &lt;a href=&#34;#email&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:reetwik12@gmail.com&#34;&gt;reetwik12@gmail.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;linkedinhttpswwwlinkedincominreetwik-das-852316b1&#34;&gt;
-  &lt;a href=&#34;https://www.linkedin.com/in/reetwik-das-852316b1/&#34;&gt;LinkedIn&lt;/a&gt;
-  &lt;a href=&#34;#linkedinhttpswwwlinkedincominreetwik-das-852316b1&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;h3 id=&#34;githubhttpsgithubcomreetwik12&#34;&gt;
-  &lt;a href=&#34;https://github.com/reetwik12&#34;&gt;Github&lt;/a&gt;
-  &lt;a href=&#34;#githubhttpsgithubcomreetwik12&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;h3 id=&#34;twitterhttpstwittercomreetwik12&#34;&gt;
-  &lt;a href=&#34;https://twitter.com/reetwik12&#34;&gt;Twitter&lt;/a&gt;
-  &lt;a href=&#34;#twitterhttpstwittercomreetwik12&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h3&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:reetwik12@gmail.com&#34;&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/reetwik-das-852316b1/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/reetwik12&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/reetwik12&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:reetwik12@gmail.com&#34;&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/reetwik-das-852316b1/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/reetwik12&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/reetwik12&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
     </item>
     <item>
@@ -66,39 +37,95 @@
   Education
   &lt;a href=&#34;#education&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
 &lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;(2014- 2018) | B.Tech from National Institute of Technology Goa&lt;/li&gt;
-&lt;li&gt;(2020 - present) | M.S+Ph.D. from Indian Institute of Technology Madras&lt;/li&gt;
-&lt;/ul&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Degree&lt;/th&gt;
+          &lt;th&gt;Institute&lt;/th&gt;
+          &lt;th&gt;Duration&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;B.Tech&lt;/td&gt;
+          &lt;td&gt;National Institute of Technology Goa&lt;/td&gt;
+          &lt;td&gt;2014-2018&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;M.S+Ph.D.&lt;/td&gt;
+          &lt;td&gt;Indian Institute of Technology Madras&lt;/td&gt;
+          &lt;td&gt;2020-present&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
 
 &lt;h1 id=&#34;work-experience&#34;&gt;
   Work Experience
   &lt;a href=&#34;#work-experience&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
 &lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;(July 2018 - Aug 2020) | Associate Consultant in INFOSEC section of &lt;strong&gt;Microsoft&lt;/strong&gt; IGD, Hyderabad&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;research-internships&#34;&gt;
-  Research Internships
-  &lt;a href=&#34;#research-internships&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;(May 2017 - June 2017) | National Institute of Technology Karnataka, Surathkal&lt;/li&gt;
-&lt;li&gt;(Feb 2024 - Aug 2024) | &lt;strong&gt;Robert Bosch&lt;/strong&gt;, GmbH, Renningen, Germany&lt;/li&gt;
-&lt;/ul&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Company&lt;/th&gt;
+          &lt;th&gt;Designation&lt;/th&gt;
+          &lt;th&gt;Duration&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Microsoft&lt;/td&gt;
+          &lt;td&gt;Associate Consultant&lt;/td&gt;
+          &lt;td&gt;July 2018-Aug 2020&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;National Institute of technology Karnataka, Surathkal&lt;/td&gt;
+          &lt;td&gt;Research Intern&lt;/td&gt;
+          &lt;td&gt;May 2017-June 2017&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Robert Bosch, GmbH&lt;/td&gt;
+          &lt;td&gt;Research Intern&lt;/td&gt;
+          &lt;td&gt;Feb 2024- Aug 2024&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
 
 &lt;h2 id=&#34;teaching-assistant&#34;&gt;
   Teaching Assistant
   &lt;a href=&#34;#teaching-assistant&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
 &lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Secure Systems Engineering (Jan-May 2023), (Jan-May 2022)&lt;/li&gt;
-&lt;li&gt;Secure Processor Micro-architecture (July-Nov 2024), (July-Nov 2022)&lt;/li&gt;
-&lt;li&gt;Operating Systems (July-Nov 2021)&lt;/li&gt;
-&lt;li&gt;Paradigms of Programming (July-Nov 2023)&lt;/li&gt;
-&lt;li&gt;Introduction to Programming (Jan-May 2021)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Course&lt;/th&gt;
+          &lt;th&gt;Duration&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Secure Systems Engineering&lt;/td&gt;
+          &lt;td&gt;Jan-May 2023, Jan-May 2022&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Secure Processor Micro-architecture&lt;/td&gt;
+          &lt;td&gt;July-Nov 2024, July-Nov 2022&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Operating Systems&lt;/td&gt;
+          &lt;td&gt;July-Nov 2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Paradigms of Programming&lt;/td&gt;
+          &lt;td&gt;July-Nov 2023&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Introduction to Programming&lt;/td&gt;
+          &lt;td&gt;Jan-May 2021&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h3 id=&#34;cvhttpsdrivegooglecomfiled1ak2gbkdyicmw9gtisff-hluwd0xesid5viewuspsharing&#34;&gt;
   &lt;a href=&#34;https://drive.google.com/file/d/1aK2gBKDyiCmw9GtiSFf-HLUwd0xEsId5/view?usp=sharing&#34;&gt;CV&lt;/a&gt;
@@ -109,39 +136,95 @@
   Education
   &lt;a href=&#34;#education&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
 &lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;(2014- 2018) | B.Tech from National Institute of Technology Goa&lt;/li&gt;
-&lt;li&gt;(2020 - present) | M.S+Ph.D. from Indian Institute of Technology Madras&lt;/li&gt;
-&lt;/ul&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Degree&lt;/th&gt;
+          &lt;th&gt;Institute&lt;/th&gt;
+          &lt;th&gt;Duration&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;B.Tech&lt;/td&gt;
+          &lt;td&gt;National Institute of Technology Goa&lt;/td&gt;
+          &lt;td&gt;2014-2018&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;M.S+Ph.D.&lt;/td&gt;
+          &lt;td&gt;Indian Institute of Technology Madras&lt;/td&gt;
+          &lt;td&gt;2020-present&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
 
 &lt;h1 id=&#34;work-experience&#34;&gt;
   Work Experience
   &lt;a href=&#34;#work-experience&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
 &lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;(July 2018 - Aug 2020) | Associate Consultant in INFOSEC section of &lt;strong&gt;Microsoft&lt;/strong&gt; IGD, Hyderabad&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;research-internships&#34;&gt;
-  Research Internships
-  &lt;a href=&#34;#research-internships&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;(May 2017 - June 2017) | National Institute of Technology Karnataka, Surathkal&lt;/li&gt;
-&lt;li&gt;(Feb 2024 - Aug 2024) | &lt;strong&gt;Robert Bosch&lt;/strong&gt;, GmbH, Renningen, Germany&lt;/li&gt;
-&lt;/ul&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Company&lt;/th&gt;
+          &lt;th&gt;Designation&lt;/th&gt;
+          &lt;th&gt;Duration&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Microsoft&lt;/td&gt;
+          &lt;td&gt;Associate Consultant&lt;/td&gt;
+          &lt;td&gt;July 2018-Aug 2020&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;National Institute of technology Karnataka, Surathkal&lt;/td&gt;
+          &lt;td&gt;Research Intern&lt;/td&gt;
+          &lt;td&gt;May 2017-June 2017&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Robert Bosch, GmbH&lt;/td&gt;
+          &lt;td&gt;Research Intern&lt;/td&gt;
+          &lt;td&gt;Feb 2024- Aug 2024&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
 
 &lt;h2 id=&#34;teaching-assistant&#34;&gt;
   Teaching Assistant
   &lt;a href=&#34;#teaching-assistant&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
 &lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Secure Systems Engineering (Jan-May 2023), (Jan-May 2022)&lt;/li&gt;
-&lt;li&gt;Secure Processor Micro-architecture (July-Nov 2024), (July-Nov 2022)&lt;/li&gt;
-&lt;li&gt;Operating Systems (July-Nov 2021)&lt;/li&gt;
-&lt;li&gt;Paradigms of Programming (July-Nov 2023)&lt;/li&gt;
-&lt;li&gt;Introduction to Programming (Jan-May 2021)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Course&lt;/th&gt;
+          &lt;th&gt;Duration&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Secure Systems Engineering&lt;/td&gt;
+          &lt;td&gt;Jan-May 2023, Jan-May 2022&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Secure Processor Micro-architecture&lt;/td&gt;
+          &lt;td&gt;July-Nov 2024, July-Nov 2022&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Operating Systems&lt;/td&gt;
+          &lt;td&gt;July-Nov 2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Paradigms of Programming&lt;/td&gt;
+          &lt;td&gt;July-Nov 2023&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Introduction to Programming&lt;/td&gt;
+          &lt;td&gt;Jan-May 2021&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h3 id=&#34;cvhttpsdrivegooglecomfiled1ak2gbkdyicmw9gtisff-hluwd0xesid5viewuspsharing&#34;&gt;
   &lt;a href=&#34;https://drive.google.com/file/d/1aK2gBKDyiCmw9GtiSFf-HLUwd0xEsId5/view?usp=sharing&#34;&gt;CV&lt;/a&gt;
