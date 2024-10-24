@@ -4,5 +4,8 @@ title = 'Contact'
 +++
 
 ## Email
+reetwik12@gmail.com
 
-cs20d402@smail.iitm.ac.in
+### [LinkedIn](https://www.linkedin.com/in/reetwik-das-852316b1/)
+### [Github](https://github.com/reetwik12)
+### [Twitter](https://twitter.com/reetwik12) 
