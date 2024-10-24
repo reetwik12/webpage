@@ -7,7 +7,7 @@ toc = false
 
 ![Alt Text](/img.jpeg)
 
-I am currently working in the area of hardware security of AI/ML models under the supervision on Dr. [Chester Rebeiro](https://www.cse.iitm.ac.in/~chester/) in I2SSL Lab in IIT Madras. 
+I am currently working in the area of hardware security of AI/ML models under the supervision on Dr. [Chester Rebeiro](https://www.cse.iitm.ac.in/~chester/) in I2SSL Lab in IIT Madras. We look at some attacks possible on pre-trained ML models after being deployed on an embedded device and also provide suitable countermeasures against them. 
 
 ## Research Interests
 
@@ -17,4 +17,3 @@ I am currently working in the area of hardware security of AI/ML models under th
 
 ### [Blogs](https://reetwikdasblogs.azurewebsites.net/)
 
-### [CV](https://drive.google.com/file/d/1aK2gBKDyiCmw9GtiSFf-HLUwd0xEsId5/view?usp=sharing)
