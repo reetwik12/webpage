@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Reetwik Das</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Reetwik Das</description>
+    <generator>Hugo -- gohugo.io</generator>
+      <language>en-us</language>
+      <lastBuildDate>Mon, 07 Oct 2024 15:27:26 +0530</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/blog/blog/</link>
+      <pubDate>Mon, 07 Oct 2024 15:27:26 +0530</pubDate>
+
+      <guid>http://localhost:1313/blog/blog/</guid>
+      <description>&lt;h2 id=&#34;blog&#34;&gt;
+  Blog
+  &lt;a href=&#34;#blog&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Security of &lt;strong&gt;AI/ML&lt;/strong&gt;, Hardware security, &lt;em&gt;Side channels analysis&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <content>
+&lt;h2 id=&#34;blog&#34;&gt;
+  Blog
+  &lt;a href=&#34;#blog&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Security of &lt;strong&gt;AI/ML&lt;/strong&gt;, Hardware security, &lt;em&gt;Side channels analysis&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+</content>
+    </item>
+  </channel>
+</rss>

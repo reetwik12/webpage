@@ -1,7 +1,7 @@
 baseURL = 'https://reetwikdas.org/'
 languageCode = 'en-us'
 title = "Reetwik Das"
-theme = "m10c"
+theme = "hugo-xterm-main"
 paginate = 8
 
 [menu]
