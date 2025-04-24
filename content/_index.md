@@ -10,7 +10,7 @@ toc = false
 
 ------------
 
-I am currently working in the area of hardware security of AI/ML models under the supervision on Dr. [Chester Rebeiro](https://www.cse.iitm.ac.in/~chester/) in I2SSL Lab in IIT Madras. We look at some attacks possible on pre-trained ML models after being deployed on an embedded device and also provide suitable countermeasures against them. In my free time I like to play Chess and Table tennis. 
+I am currently working in the area of hardware security of AI/ML models under the supervision on Dr. [Chester Rebeiro](https://www.cse.iitm.ac.in/~chester/) in I2SSL Lab in IIT Madras. We look at some attacks possible on pre-trained ML models after being deployed on an embedded device and also provide suitable countermeasures against them.
 
 >  # Research Interests: 
 > * Adversarial AI/ML
@@ -20,10 +20,6 @@ I am currently working in the area of hardware security of AI/ML models under th
 ------------
 
 In my free time I do like to play Chess and Table tennis.
-
-------------
-
-### [Blogs](https://reetwikdasblogs.azurewebsites.net/)
 
 ------------
 
