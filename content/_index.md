@@ -1,7 +1,7 @@
 +++
 title = "Reetwik Das"
 description = "Ph.D. Student @ IIT Madras"
-date = "2024-10-24"
+date = "2025-04-25"
 toc = false
 +++
 
@@ -17,8 +17,10 @@ I am currently working in the area of hardware security of AI/ML models under th
 > * Hardware Security
 > * Side Channels Analysis 
 
+------------
 
-In my free time I do like to play Chess and Table tennis.
+In my free time I like to play Chess and Table tennis. 
+
 ------------
 
 ### [Blogs](https://reetwikdasblogs.azurewebsites.net/)
